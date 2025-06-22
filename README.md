@@ -1,5 +1,5 @@
 # Curso de Java
-Esse repositório estarei guardando meus exercícios de Java do curso do Dr. Nelio Alves.
+Neste repositório, guardarei meus exercícios de Java do curso do Dr. Nelio Alves.
 
 ### Curso de Java
 
