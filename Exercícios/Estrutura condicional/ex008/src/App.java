@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class App {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+            Scanner sc = new Scanner(System.in);
 
         float x;
 
@@ -25,5 +25,7 @@ public class App {
         else {
             System.out.println("28%");
         }
+
+            sc.close();
     }
 }
