@@ -20,8 +20,6 @@ public class App {
             }
         }
 
-        
-
-        sc.close();
+            sc.close();
     }
 }
